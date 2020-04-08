@@ -1,7 +1,7 @@
 body{
     padding: 0%;
     margin: 0%;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     header{
         
@@ -31,12 +31,10 @@ body{
       }
     article {
         max-width: 16rem;
-        color: #5d5d5d;
+        color: #0f0f0f;
       }
       
-      article:first-child {
-        color: #0d0d0d;
-      }
+     
     aside {
         position: relative;
       }
@@ -47,6 +45,9 @@ body{
         display: flex;
       }
       
+      .sidebar-text{
+        text-decoration: aqua;
+      }
       .container {
         display: flex;
         justify-content: center;
