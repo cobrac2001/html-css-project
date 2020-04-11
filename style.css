@@ -45,9 +45,7 @@ body{
         display: flex;
       }
       
-      .sidebar-text{
-        text-decoration: aqua;
-      }
+     
       .container {
         display: flex;
         justify-content: center;
